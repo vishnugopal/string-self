@@ -1,0 +1,23 @@
+
+
+String self is a simple tool to create Java FQDN like objects in Ruby.
+
+Example:
+
+See test/test_string_self.rb
+
+expected = "com.vysnu.self_object"
+assert_equal expected, com.vysnu.self_object
+
+To install:
+
+1) Add github as a gem source.
+2) gem install gvishnu-string-self
+
+
+---
+ Vishnu Gopal.
+ May 2009.
+ 
+This code is released into the public domain.
+
